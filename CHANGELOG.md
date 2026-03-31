@@ -1,3 +1,15 @@
+# [8.0.0](https://github.com/parse-community/node-apn/compare/7.1.0...8.0.0) (2026-03-31)
+
+
+### Features
+
+* Remove support for Node 18 ([#212](https://github.com/parse-community/node-apn/issues/212)) ([3a601b8](https://github.com/parse-community/node-apn/commit/3a601b880928cdf6a181f5b1f36b0e47165912ed))
+
+
+### BREAKING CHANGES
+
+* Removes support for Node 18. ([3a601b8](3a601b8))
+
 # [7.1.0](https://github.com/parse-community/node-apn/compare/7.0.1...7.1.0) (2026-01-31)
 
 
