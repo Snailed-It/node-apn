@@ -368,6 +368,10 @@ export class Notification {
    */
   public mutableContent: boolean;
   /**
+   * Setting this to true will specify "content-changed" in the payload when it is compiled
+   */
+  public contentChanged: boolean;
+  /**
    * The value to specify for the `mdm` field where applicable.
    */
   public mdm: string|Object;
