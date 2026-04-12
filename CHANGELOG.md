@@ -1,3 +1,10 @@
+# [8.1.0](https://github.com/parse-community/node-apn/compare/8.0.0...8.1.0) (2026-04-12)
+
+
+### Features
+
+* Add support for notification push type `widgets` ([#194](https://github.com/parse-community/node-apn/issues/194)) ([a3bcbcb](https://github.com/parse-community/node-apn/commit/a3bcbcb8faeeb014bac4bd66a30a37f2015eabd3))
+
 # [8.0.0](https://github.com/parse-community/node-apn/compare/7.1.0...8.0.0) (2026-03-31)
 
 
