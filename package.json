@@ -38,7 +38,7 @@
     "mocha": "10.7.3",
     "nyc": "15.1.0",
     "prettier": "2.4.1",
-    "semantic-release": "25.0.3",
+    "semantic-release": "25.0.7",
     "sinon": "10.0.0",
     "sinon-chai": "3.6.0"
   },
